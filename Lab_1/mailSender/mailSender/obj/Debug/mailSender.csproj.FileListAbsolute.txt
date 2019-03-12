@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\sysprog\Lab_1\mailSender\mailSender\bin\Debug\mailSender.exe.config
+C:\Users\Admin\Desktop\sysprog\Lab_1\mailSender\mailSender\bin\Debug\mailSender.exe
+C:\Users\Admin\Desktop\sysprog\Lab_1\mailSender\mailSender\bin\Debug\mailSender.pdb
+C:\Users\Admin\Desktop\sysprog\Lab_1\mailSender\mailSender\obj\Debug\mailSender.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\mailSender\mailSender\obj\Debug\mailSender.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\mailSender\mailSender\obj\Debug\mailSender.exe
+C:\Users\Admin\Desktop\sysprog\Lab_1\mailSender\mailSender\obj\Debug\mailSender.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\bin\Debug\GetFromSQL.exe.config
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\bin\Debug\GetFromSQL.exe
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\bin\Debug\GetFromSQL.pdb
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\obj\Debug\GetFromSQL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\obj\Debug\GetFromSQL.Form1.resources
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\obj\Debug\GetFromSQL.Properties.Resources.resources
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\obj\Debug\GetFromSQL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\obj\Debug\GetFromSQL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\obj\Debug\GetFromSQL.exe
+C:\Users\Admin\Desktop\sysprog\Lab_1\GetFromSQL\GetFromSQL\obj\Debug\GetFromSQL.pdb

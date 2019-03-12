@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\bin\Debug\regForm1.exe.config
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\bin\Debug\regForm1.exe
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\bin\Debug\regForm1.pdb
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\obj\Debug\regForm1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\obj\Debug\regForm1.Form1.resources
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\obj\Debug\regForm1.Properties.Resources.resources
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\obj\Debug\regForm1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\obj\Debug\regForm1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\obj\Debug\regForm1.exe
+C:\Users\Admin\Desktop\sysprog\Lab_1\regForm1\regForm1\obj\Debug\regForm1.pdb

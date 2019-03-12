@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\manual_light\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\Admin\source\repos\manual_light\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\Admin\source\repos\manual_light\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\Admin\source\repos\manual_light\ConsoleApp18\obj\Debug\manual_light.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\manual_light\ConsoleApp18\obj\Debug\manual_light.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\manual_light\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\Admin\source\repos\manual_light\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
